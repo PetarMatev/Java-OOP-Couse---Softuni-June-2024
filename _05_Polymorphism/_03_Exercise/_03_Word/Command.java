@@ -1,0 +1,22 @@
+package Java_OOP_June_2024._05_Polymorphism._03_Exercise._03_Word;
+
+public class Command {
+    private String text;
+    private TextTransform textTransform;
+
+    public Command(String text, TextTransform textTransform){
+        this.text = text;
+        this.textTransform = textTransform;
+    }
+    public String getText() {
+        return this.text;
+    }
+
+    public TextTransform getTextTransform() {
+        return this.textTransform;
+    }
+
+    public String execute() {
+        return null;
+    }
+}

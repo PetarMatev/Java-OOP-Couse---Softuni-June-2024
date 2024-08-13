@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="christmasPastryShop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/christmasPastryShop.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
